@@ -48,7 +48,7 @@ Optimized embedded software build automation achieving ~79% reduction in build t
 ### [D&D Campaign Companion](https://dnd-campaign-companion.web.app/)
 Full-stack React/TypeScript web app with Firebase auth, enabling collaborative campaign management with invite links.
 
-### [Daggerheart Character Sheet](https://daggerheart-sheet.web.app/)
+### [Daggerheart Character Sheet](https://dh-sheet.web.app/)
 Interactive character sheet tool with Google OAuth integration for the Daggerheart TTRPG system.
 
 ## 🌱 Currently Working On
