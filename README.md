@@ -45,10 +45,10 @@ Battery-powered ESP32 home automation device integrating ESPHome and Home Assist
 ### [CMake Build System Thesis](https://github.com/Haugenau20/cmake_meson_thesis)
 Optimized embedded software build automation achieving ~79% reduction in build times. Grade: A
 
-### [D&D Campaign Companion](https://dnd-campaign-companion.web.app/)
+### [Muninn](https://dnd-campaign-companion.web.app/)
 Full-stack React/TypeScript web app with Firebase auth, enabling collaborative campaign management with invite links.
 
-### [Daggerheart Character Sheet](https://dh-sheet.web.app/)
+### [Daggerheart Compatible Character Sheet](https://dh-sheet.web.app/)
 Interactive character sheet tool with Google OAuth integration for the Daggerheart TTRPG system.
 
 ## 🌱 Currently Working On
